@@ -2,7 +2,7 @@
 
 ## 👨‍💻 Sobre mim
 
-- 🎓 Técnico em Informática e Programador apaixonado por tecnologia.
+- 🎓 Técnico em Informática, estudante de Ciencia da Computação e Programador apaixonado por tecnologia. 
 - 💡 Sempre aprendendo algo novo e buscando maneiras de melhorar o mundo com a tecnologia.
 - 🙏 Cristão evangélico, acredito que o amor de Jesus transforma vidas.
 
@@ -19,9 +19,9 @@ Acredito que cada projeto é uma oportunidade de mostrar empatia, criatividade e
 
 ## 📫 Contato
 
-- 📧 kauamatheu@gmail.com
-- 💬 Instagram: [@kauamatheu](https://instagram.com/kauamatheu)
-- 💼 LinkedIn: [Seu LinkedIn aqui]
+- 📧 kauamatheu407@gmail.com
+- 💬 Instagram: [@kauamatheu](https://www.instagram.com/_kauamatheu/)
+- 💼 LinkedIn: [kauamatheu](https://www.linkedin.com/in/kauamatheu/)
 
 ## 📊 GitHub Status
 
