@@ -23,10 +23,6 @@ Acredito que cada projeto é uma oportunidade de mostrar empatia, criatividade e
 - 💬 Instagram: [@kauamatheu](https://www.instagram.com/_kauamatheu/)
 - 💼 LinkedIn: [kauamatheu](https://www.linkedin.com/in/kauamatheu/)
 
-## 📊 GitHub Status
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kauamatheu&show_icons=true&count_private=true&theme=dracula)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=kauamatheu&layout=compact&langs_count=5&theme=dracula)
 ---
 
 🙏 Que Deus continue te guiando e abençoando os teus caminhos.  
