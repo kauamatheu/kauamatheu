@@ -9,7 +9,7 @@
 ## 🛠️ Tecnologias & Ferramentas
 
 - 💻 Linguagens: Java, Python, JavaScript, HTML/CSS
-- 🛠️ Ferramentas: Git & GitHub, VSCode, Windows Server, GML (GameMaker)
+- 🛠️ Ferramentas: Git & GitHub, VSCode
 
 ## ✨ O que me move
 
