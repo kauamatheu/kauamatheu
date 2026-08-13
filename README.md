@@ -8,7 +8,7 @@
 
 ## 🛠️ Tecnologias & Ferramentas
 
-- 💻 Linguagens: Java, Python, JavaScript, HTML/CSS
+- 💻 Linguagens: Java, Python, JavaScript, HTML/CSS, PHP
 - 🛠️ Ferramentas: Git & GitHub, VSCode
 
 ## ✨ O que me move
